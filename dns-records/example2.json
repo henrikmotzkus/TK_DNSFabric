@@ -1,0 +1,12 @@
+{
+    "name": "app02",
+    "ttl": 300,
+    "records": [
+        "10.1.2.3",
+        "10.1.2.4"
+    ],
+    "tags": {
+        "owner": "dns-team",
+        "env": "dev"
+    }
+}

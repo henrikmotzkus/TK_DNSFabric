@@ -1,0 +1,9 @@
+# Example variable values
+resource_group_name = "Lab_HubNetwork"
+zone_name           = "privatelink.blob.core.windows.net"
+json_folder         = "dns-records"
+default_ttl         = 300
+default_tags = {
+  owner = "team-x"
+  env   = "dev"
+}
