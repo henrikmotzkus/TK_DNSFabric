@@ -41,3 +41,7 @@ This configuration reads JSON files from `dns-records/` and creates A records in
 - Only A records are managed in this version.
 - IPv4 validation is enforced; empty records arrays are rejected.
 - State is local; switch to a remote backend when ready.
+
+## Warning
+
+This was completely vide coded!
